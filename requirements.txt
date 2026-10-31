@@ -1,0 +1,14 @@
+PyQt6
+Pillow
+requests
+psutil
+pyperclip
+pyautogui
+screen-brightness-control
+pyttsx3
+sounddevice
+vosk
+SpeechRecognition
+opencv-python
+numpy
+scipy
